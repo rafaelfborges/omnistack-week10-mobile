@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "mobile",
-    "slug": "mobile",
+    "name": "DevRadar - Mobile",
+    "slug": "devradar-mobile",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Mobile for DevRadar application, developed during the Week Omnistack 10 of Rocketseat. Two other applications are also part of this project:\n- https://github.com/rafaelfborges/devradar-backend\n- https://github.com/rafaelfborges/devradar-web",
+    "githubUrl": "https://github.com/rafaelfborges/devradar-mobile"
   }
 }
