@@ -24,6 +24,8 @@
 
 ### ✨ [Demo](https://expo.io/@rafaelfborges/devradar-mobile)
 
+![DevRadar - Backend](/demo/preview-devradar-mobile.png)
+
 ## Prerequisites
 
 - node >=12.14.1
